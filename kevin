@@ -1,0 +1,4 @@
+Membandingkan dua angka pertama yaitu 5 dan 8
+Karena 5 lebih kecil dari 8 maka urutan kedua bilangan ini tidak akan ditukar
+Lalu algoritma akan maju ke pasangan kedua yaitu 8 dan 6. Karena 8 lebih besar dari 6, maka posisi mereka berdua akan ditukar
+Maka, hasil akhirnya 568
